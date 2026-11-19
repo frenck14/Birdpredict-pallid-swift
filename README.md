@@ -1,1 +1,0 @@
-# Birdpredict-pallid-swift
